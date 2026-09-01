@@ -142,6 +142,11 @@ Key dependencies include:
 3. Make your changes
 4. Submit a pull request
 
+## Contributors
+1. Ayush Prateek
+2. Atul Rai
+
+
 ## License
 
 This project is licensed under the MIT License.
